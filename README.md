@@ -12,7 +12,7 @@ I'm currently working on my front-end proficiency.
 
 To keep up to date, subscribe to my [Substack](https://dolbs.substack.com) and follow me on [X](https://x.com/jackdolbs).
 
-Check out my [personal site](https://jackdolbs.me).
+Check out my [personal site](https://jackdolbs.me) here.
 
 <!--
 **JackDolbs/jackdolbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
