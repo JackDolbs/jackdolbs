@@ -2,17 +2,17 @@
 
 I help B2B startups in Web3 & AI ship their products faster & monetize earlier.
 
-Currently, I'm the director of w3forge ([w3forge](https://w3forge.xyz) and a Cofounder/Partner at the O2XC Venture Fund ([O2XC](https://o2xc.capital).
+Currently, I'm the director of w3forge [w3forge](https://w3forge.xyz) and a Cofounder/Partner at the O2XC Venture Fund [O2XC](https://o2xc.capital).
 
-I was previously the first hire at ([VEMP](https://vemp.xyz), and I've worked for IOHK ([IOHK](https://iohk.io/), Gear Tech ([Gear](https://gear-tech.io/) and a few smaller startups.
+I was previously the first hire at [VEMP](https://vemp.xyz), and I've worked for IOHK [IOHK](https://iohk.io/), Gear Tech [Gear](https://gear-tech.io/) and a few smaller startups.
 
 I don't come from a technical background, but day by day, I'm learning.
 
 I'm currently working on my front-end proficiency.
 
-To keep up to date, subscribe to my Substack ([Substack](https://dolbs.substack.com) and follow me on X ([X](https://x.com/jackdolbs).
+To keep up to date, subscribe to my Substack [Substack](https://dolbs.substack.com) and follow me on X [X](https://x.com/jackdolbs).
 
-📫 Feel free to get in touch! [https://jackdolbs.me).
+📫 Feel free to get in touch at [personal](https://jackdolbs.me).
 
 <!--
 **JackDolbs/jackdolbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
