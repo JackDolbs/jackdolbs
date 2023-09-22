@@ -1,6 +1,6 @@
 ### Hi  👋
 
-I help B2B startups in Web3 & AI ship their products faster & monetize earlier.
+I work with early-staged B2B startups building in Web3 & AI.
 
 Currently, I'm the director of [w3forge](https://w3forge.xyz) and a Cofounder/Partner at the [O2XC Venture Fund](https://o2xc.capital).
 
