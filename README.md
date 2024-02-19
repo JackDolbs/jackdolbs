@@ -1,8 +1,6 @@
-### Hi  👋
+### Hi, I'm Jack.
 
-I'm Jack.
-
-I'm interested in AI, Web3 & startups in general.
+I'm interested in AI, Web3 &  building startups.
 
 To keep up to date and/or find out what I'm working on, visit my [personal site](https://jackdolbs.me).
 
